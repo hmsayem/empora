@@ -10,4 +10,4 @@ spec:
     protocol: TCP
     targetPort: 8000
   selector:
-    app: employee
+    app: empora
